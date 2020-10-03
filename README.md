@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/shubhkotnala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhkotnala" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11274511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11274511" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shubhankar kotnala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhankar kotnala" height="30" width="40" /></a>
+<a href="https://github.com/ShubhKotnala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="shubhankar kotnala" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
