@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhkotnala&label=Profile%20views&color=0e75b6&style=flat" alt="shubhkotnala" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhkotnala" alt="shubhkotnala" /></a> </p>
+<p align="left"> <a href="https://github.com/ShubhKotnala"><img src="https://github-profile-trophy.vercel.app/?username=shubhkotnala&theme=discord" alt="shubhkotnala" /></a> </p>
 
 - 🔭 I’m currently working on [Data Structures and Algorithms](https://github.com/ShubhKotnala/Data_Structures_And_Algorithms)
 
